@@ -18,7 +18,7 @@ const Image = () => {
     query {
       file(relativePath: { eq: "desk.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 2500) {
+          fluid(maxWidth: 5104, maxHeight: 2758) {
             ...GatsbyImageSharpFluid_tracedSVG
           }
         }

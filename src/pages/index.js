@@ -12,7 +12,7 @@ const StyledImgContainer = styled.div`
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Tiffany | Portfolio" />
+    <SEO title="Tiffany | FAQs" />
     <StyledImgContainer>
       <Image />
     </StyledImgContainer>
