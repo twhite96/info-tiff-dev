@@ -1,3 +1,10 @@
+:root {
+  --navbar: white;
+  --shadow-color: rgba(0,0,0,0.1);
+  --brand-color: #06d7d9;
+}
+
+
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
